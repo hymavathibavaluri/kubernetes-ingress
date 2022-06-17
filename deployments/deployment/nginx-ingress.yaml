@@ -1,3 +1,10 @@
+#added new line for merge conflits
+#mncvjkcfkhkfd
+#ljfdkhjld
+#dkldfkdg
+#zg;k;lk;ldg
+#d'dl'l'fs
+#dl'dl'ld'
 apiVersion: apps/v1
 kind: Deployment
 metadata:
